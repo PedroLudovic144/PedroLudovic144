@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/fbda6972158e334db2b065fd877aadfda70753d38eb86ac5c5da597cd1b18dab/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d266865696768743d3130302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=&amp;height=100&amp;section=header" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/fbda6972158e334db2b065fd877aadfda70753d38eb86ac5c5da597cd1b18dab/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d266865696768743d3130302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=#3399ff&amp;text=&amp;height=100&amp;section=header" style="max-width: 100%;">
 
 <h1 align="center">Hello there i'm Pedro Ludovic</h1>
 <h3 align="center">Student of ETEC HAS and studying Systems Development</h3>
@@ -11,7 +11,7 @@
 
 <p>&nbsp;<img align="center" max-width="100%" src="https://github-readme-stats.vercel.app/api?username=PedroLudovic144&show_icons=true&locale=en" alt="vitto633" /></p>
 
-## <h3 align="center">Linguagens e ferramentas que estou aprendendo:</h3>
+## <h3 align="center">Languages and tools that I am learning:</h3>
 
 <p dir="auto">
   <img alt="JavaScript" src="https://camo.githubusercontent.com/77a94341662845d3740986b84d8219c0fd4a0a9e4af8e5411c24cec0faee2129/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" style="max-width: 100%;">
@@ -27,9 +27,9 @@
 
 
 
-## <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speak-No-Evil%20Monkey.png" alt="Speak-No-Evil Monkey" width="25" height="25" /> Me contate por:</h3>
+## <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speak-No-Evil%20Monkey.png" alt="Speak-No-Evil Monkey" width="25" height="25" /> contact me by:</h3>
 <p align="center">
-<a href="https://instagram.com/vitto_633" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/pedroludovick/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 <p align='center'>
   💻 My workspace<br/><br/>
@@ -40,6 +40,6 @@
 </p>
 
 
-<img src="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=#3399ff&amp;height=100&amp;section=footer" style="max-width: 100%;">
 
 
